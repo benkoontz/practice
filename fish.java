@@ -39,7 +39,7 @@ public class fish extends apples {
 		
 		System.out.println(Score1(50,40));
 		
-		System.out.println("your salary is " + obj.netIncome(80000));
+		System.out.println("your salary is " + obj.netIncome(obj.salary));
 		}
 		
 
