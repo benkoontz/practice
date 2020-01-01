@@ -1,6 +1,6 @@
 
 
-public abstract class fruit {
+public abstract class fruit extends Animal {
 	
 	// abstract method, these must be overwritten in another class
 	public abstract int netIncome(int salary); 
