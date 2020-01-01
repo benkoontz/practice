@@ -1,6 +1,4 @@
 
-
-// commit test3
 import java.util.Scanner;
 public class fish extends apples {
 
@@ -40,6 +38,8 @@ public class fish extends apples {
 		obj.carPayment();
 		
 		System.out.println(Score1(50,40));
+		
+		System.out.println("your salary is " + obj.netIncome(80000));
 		}
 		
 
