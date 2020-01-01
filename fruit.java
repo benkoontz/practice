@@ -11,5 +11,6 @@ public abstract class fruit {
 	public int salary;
 	public int carPrice;
 	public int housePrice;
+	String name;
 
 }
