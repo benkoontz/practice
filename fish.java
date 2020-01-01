@@ -22,10 +22,13 @@ public class fish extends apples {
 		apples nameObj = new apples();
 		nameObj.setName("ben");
 		System.out.println("Name: " + nameObj.getName());
+		
+	    // polymorphism
+		apples animalObj = new apples();
+	    animalObj.animalSound();
 		}
 	
 
-		
 
 	}
 
