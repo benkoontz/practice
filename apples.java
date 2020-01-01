@@ -4,6 +4,13 @@ import java.util.Random;
 
 public class apples extends fruit{
 	
+	
+	public apples() {
+		salary = 80000;
+		carPrice = 30000;
+		housePrice = 1000000;
+	}
+	
 	// This method is used to calculate a net income
 	public  int netIncome(int salary) {
 		
