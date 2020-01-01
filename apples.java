@@ -66,4 +66,11 @@ public class apples extends fruit{
 	  public void setName(String newName) {
 	    this.name = newName;
 	  }
+	  
+	  // polymorphism
+	  public void animalSound() {
+		  System.out.println("animal sound has changed due to polymorphism");
+	  }
+	  
+		
 }
