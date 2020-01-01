@@ -26,7 +26,17 @@ public class fish extends apples {
 	    // polymorphism
 		apples animalObj = new apples();
 	    animalObj.animalSound();
+	    
+	    // inheritance
+		Vehicle car = new Vehicle();
+		car.carReport();
+		System.out.println("The type of car is a " + car.carType + " and the car year is " + car.carYear(2010));
+		
 		}
+	
+
+	   
+	   
 	
 
 
