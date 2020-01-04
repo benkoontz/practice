@@ -1,6 +1,6 @@
 
 
-// The purpose of this program is to learn the different concepts in java 
+
 import java.util.Scanner;
 import java.io.*;
 
