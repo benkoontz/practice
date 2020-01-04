@@ -16,7 +16,7 @@ public class fish extends apples {
 
 	public static void main(String[] args) {
 		
-		// calling two score methods using static, the first name is always 50 and the second is a number between 50 and 0
+		// calling two score methods using static, the first score is always 50 and the second score is a number between 50 and 0
 		// since I'm using the static keyword in the apples class, I don't have to create an object to call the method
 		System.out.println("the score of the halo game was " + Score1(50,50) + " to " + Score2(50,0));
 		
