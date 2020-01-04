@@ -1,9 +1,10 @@
 
-
+import java.io.*;
 import java.util.Random;
 
 public class apples extends fruit{
 	
+	public static StringBuffer test = new StringBuffer("inhert me please, I'm a string from a string buffer :P ");
 	
 	public apples() {
 		salary = 80000;
